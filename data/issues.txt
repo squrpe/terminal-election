@@ -1,0 +1,49 @@
+Keep your promises, even the small ones | good_morals | serious | 1.2
+Hates genocide | left_politics, good_morals |serious | 1.5
+Free Palestine | left_politics | serious | 1.5
+Supporting Israel | right_politics | serious | 1.5
+Fix monopolisation of supermarkets | left_politics | serious | 1.5
+Everyone gets $1000 a week, no strings attached | left_politics, good_morals | serious | 1.5
+Racism | right_politics, bad_morals | serious | 1.5
+Gun control laws | left_politics, good_morals | serious | 1.4
+Ban abortion | right_politics, bad_morals | serious | 1.5
+Protect abortion rights | left_politics, good_morals, health | serious | 1.5
+Decrease fuel prices | right_politics | serious | 1.3
+Climate change is a top priority | left_politics, health | serious | 1.5
+Free healthcare for all | left_politics, health | serious | 1.5
+Make housing affordable as a human right | left_politics, good_morals | serious | 1.5
+Education should be fully free | left_politics, good_morals | serious | 1.4
+White Lives Matter | right_politics, bad_morals | serious | 1.5
+Support LGBTQ+ rights | left_politics, good_morals | serious | 1.4
+Ban single-use plastics | left_politics, health, activities | serious | 1.2
+National service is mandatory for all 18 year olds | right_politics, activities | serious | 1.4
+Make red liquorice cheaper at Woolworths | food | funny | 1.0
+Raise the price of red liquorice at Woolworths | food, bad_morals | funny | 1.0
+Pho tastes good | food | funny | 1.0
+Pho tastes like hot dog water | food, bad_morals | funny | 1.0
+Ugly people should not be allowed in parliament | bad_morals, right_politics, other | funny | 1.0
+Men | other, bad_morals | funny | 1.0
+People being alive | good_morals, other | funny | 1.0
+Complimenting me | good_morals, other | funny | 1.0
+Women being alive | good_morals, other | funny | 1.0
+Everyone gets free kisses | other, good_morals | funny | 1.0
+Being exposed to the internet at a very young age | activities | funny | 1.0
+Buys way too much fast fashion | bad_morals | funny | 1.0
+Animation is only for children | activities, gaming, bad_morals | funny | 1.0
+Queening out | activities, other, good_morals | funny | 1.0
+Sharing food means instant trust | food, good_morals | funny | 1.0
+Buying me dinner | food | funny | 1.0
+Being annoying with bad opinions | bad_morals, other | funny | 1.0
+Bringing the mood down | other | funny | 1.0
+Normies with blonde hair | other, bad_morals, right_politics | funny | 1.0
+Nazis | right_politics, bad_morals | serious | 1.3
+Valorant becoming an Olympic sport | gaming, activities | funny | 1.0
+Ban mobile games with microtransactions | gaming, good_morals | funny | 1.2
+Mandatory karaoke nights | activities, good_morals | funny | 1.0
+Pets get voting rights | activities, left_politics, funny, good_morals | funny | 1.0
+Ban people who clap when a plane lands | activities, bad_morals | funny | 1.0
+Liking problematic people is okay | other, good_morals, bad_morals | mixed | 1.2
+Subsidise indie game studios | gaming, left_politics | mixed | 1.2
+Support local arts and film projects | activities, left_politics | mixed | 1.3
+Everyone gets mental health days off work | health, left_politics | mixed | 1.3
+Smiling | other, bad_morals | mixed | 1.2
